@@ -15,7 +15,7 @@
                             class="w-[240px] absolute left-[50%] transform -translate-x-[50%] h-[240px] drop-shadow-xl mx-auto rounded-[20px] -mt-[140px]"
                             alt="about" />
                         <div class="pt-[100px] pb-8">
-                            <h2 class="mt-6 mb-1 text-[26px] font-semibold dark:text-white"> Ismael Catalá Gil
+                            <h2 class="mt-6 mb-1 text-[26px] font-semibold dark:text-white"> Eng. JDavid Lugo
                             </h2>
                             <h3
                                 class="mb-4 text-[#7B7B7B] inline-block dark:bg-[#1D1D1D] px-5 py-1.5 rounded-lg dark:text-[#A6A6A6]">
@@ -58,7 +58,7 @@
                                     </span>
                                     <div class="text-left ml-2.5">
                                         <p class="text-xs text-[#44566C] dark:text-[#A6A6A6]"> Teléfono </p>
-                                        <p class="dark:text-white">+123 456 7890</p>
+                                        <p class="dark:text-white">+58 424-265-7027</p>
                                     </div>
                                 </div>
 
@@ -68,7 +68,7 @@
                                     </span>
                                     <div class="text-left ml-2.5">
                                         <p class="text-xs text-[#44566C] dark:text-[#A6A6A6]"> Email </p>
-                                        <p class="dark:text-white">example@mail.com</p>
+                                        <p class="dark:text-white">jodaluca@gmail.com</p>
                                     </div>
                                 </div>
 
@@ -78,7 +78,7 @@
                                     </span>
                                     <div class="text-left ml-2.5">
                                         <p class="text-xs text-[#44566C] dark:text-[#A6A6A6]"> Dirección </p>
-                                        <p class="dark:text-white">Madrid, España</p>
+                                        <p class="dark:text-white">Charallave, Venezuela</p>
                                     </div>
                                 </div>
 
@@ -88,7 +88,7 @@
                                     </span>
                                     <div class="text-left ml-2.5">
                                         <p class="text-xs text-[#44566C] dark:text-[#A6A6A6]"> Año de nacimiento </p>
-                                        <p class="dark:text-white">24 Sept, 1987</p>
+                                        <p class="dark:text-white">29 Dic, 1989</p>
                                     </div>
                                 </div>
                             </div>
@@ -109,8 +109,8 @@
                         <div class="lg:mr-16">
                             <p class="text-[#44566c] dark:text-color-910 leading-7"> Soy Desarrollador de Software desde hace mas de 15 años.
                                 Me encanta la tecnología y todo el mundo que la rodea. </p>
-                            <p class="text-[#44566c] leading-7 mt-2.5 dark:text-color-910"> Además de mi vocación como desarrollador, tambien me encanta
-                                la creación de contenido, por lo que tengo un canal de Youtube llamado: El Rincón de Isma.
+                            <p class="text-[#44566c] leading-7 mt-2.5 dark:text-color-910"> Además de mi vocación como desarrollador, el manejo de base de datos
+                                actualmente soy dba con sql, por lo que tengo excelente habilidad para creacion y manejo de estructuras de datos.
                             </p>
                         </div>
                         <div></div>
@@ -204,22 +204,7 @@
                             <img class="overflow-hidden brand-img" src="{{asset('images/slider/brand2.png')}}"
                                 alt="brand icon" />
                         </div>
-                        <div>
-                            <img class="overflow-hidden brand-img" src="{{asset('images/slider/brand3.png')}}"
-                                alt="brand icon" />
-                        </div>
-                        <div>
-                            <img class="overflow-hidden brand-img" src="{{asset('images/slider/brand4.png')}}"
-                                alt="brand icon" />
-                        </div>
-                        <div>
-                            <img class="overflow-hidden brand-img" src="{{asset('images/slider/brand1.png')}}"
-                                alt="brand icon" />
-                        </div>
-                        <div>
-                            <img class="overflow-hidden brand-img" src="{{asset('images/slider/brand1.png')}}"
-                                alt="brand icon" />
-                        </div>
+
                     </div>
                     <!-- slider and slider items end -->
                 </div>
@@ -230,7 +215,7 @@
                 <p class="text-center py-6 text-gray-lite dark:text-color-910"> © 2023 Todos los derechos reservados
                     by <a class="hover:text-[#FA5252] duration-300 transition"
                         href="me.elrincondeisma.com" target="_blank"
-                        rel="noopener noreferrer"> El Rincón de Isma</a>. </p>
+                        rel="noopener noreferrer"> JDavid-lugo</a>. </p>
             </footer>
             <!-- footer section end -->
         </div>
