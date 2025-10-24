@@ -125,7 +125,7 @@
                                 </span>
                             </a>
                             <!-- dribbble icon and link -->
-                            <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+                            <a href="https://github.com/jdavid-lugo" target="_blank" rel="noopener noreferrer">
                                 <span class="socialbtn text-[#e14a84]">
                                     <i class="fa-brands fa-github"></i>
                                 </span>
@@ -177,9 +177,13 @@
                             </div>
                         </div>
                         <!-- personal infomation end-->
-                        <!-- dowanload button -->
-                        <button class="dowanload-btn">
-                            <img class="mr-3" src="{{asset('images/icons/dowanload.png')}}" alt="icon" /> Descargar CV </button>
+                        <!-- download / open CV buttons -->
+                        <div class="flex justify-center space-x-3 mt-4">
+                            <!-- Force download -->
+                            <a class="dowanload-btn" href="{{ asset('cv/cv_jdavid-lugo.pdf') }}" download>
+                                <img class="mr-3" src="{{ asset('images/icons/dowanload.png') }}" alt="icon" /> Descargar CV
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>

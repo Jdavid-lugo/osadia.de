@@ -30,7 +30,7 @@
                                     </span>
                                 </a>
                                 <!-- twitter icon and link -->
-                                <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer">
+                                <a href="https://x.com/" target="_blank" rel="noopener noreferrer">
                                     <span class="socialbtn text-[#1C9CEA]">
                                         <i class="fa-brands fa-twitter"></i>
                                     </span>
@@ -88,7 +88,7 @@
                                     </span>
                                     <div class="text-left ml-2.5">
                                         <p class="text-xs text-[#44566C] dark:text-[#A6A6A6]"> Año de nacimiento </p>
-                                        <p class="dark:text-white">29 Dic, 1989</p>
+                                        <p class="dark:text-white">29 Dic, 1988</p>
                                     </div>
                                 </div>
                             </div>
@@ -96,8 +96,7 @@
 
                             <!-- dowanload button -->
                             <button class="dowanload-btn">
-                                <img class="mr-3" src="{{asset('images/icons/dowanload.png')}}" alt="icon" /> Descargar
-                                CV
+                                <img class="mr-3" src="{{asset('images/icons/download.png')}}" alt="icon" /> Descargar CV
                             </button>
                         </div>
                     </div>
@@ -142,28 +141,6 @@
                                 como móviles. Si no tienes aplicación hoy en día no eres nadie. </p>
                         </div>
                     </div>
-
-                    <div class="about-box bg-[#fcf4ff] dark:bg-transparent">
-                        <img class="w-10 h-10 object-contain block" src="{{asset('images/icons/icon2.svg')}}"
-                            alt="icon" />
-                        <div class="space-y-2">
-                            <h3 class="dark:text-white text-[22px] font-semibold"> Fotografía </h3>
-                            <p class="leading-8 text-gray-lite dark:text-[#A6A6A6]"> Gracias a mi canal he descubierto el mundo, 
-                                de la fotografía. Me encanta la edición fotográfica.
-                            </p>
-                        </div>
-                    </div>
-
-                    <div class="about-box bg-[#fff4f4] dark:bg-transparent">
-                        <img class="w-10 h-10 object-contain block" src="{{asset('images/icons/icon3.svg')}}"
-                            alt="icon" />
-                        <div class="space-y-2">
-                            <h3 class="dark:text-white text-[22px] font-semibold"> Edición de video </h3>
-                            <p class="leading-8 text-gray-lite dark:text-[#A6A6A6]"> Al igual que con la fotografía, he descubierto este mundo
-                                totalmente nuevo para mi. Ha sido una sorpresa todo lo que se puede realizar. </p>
-                        </div>
-                    </div>
-
                     <div class="about-box bg-[#fff0f8] dark:bg-transparent">
                         <img class="w-10 h-10 object-contain block" src="{{asset('images/icons/icon4.svg')}}"
                             alt="icon" />
@@ -183,6 +160,23 @@
                                 no te encontraran. Ponte en contacto conmigo para crear tu presencia online. </p>
                         </div>
                     </div>
+
+                    <div class="about-box bg-[#f0fff4] dark:bg-transparent">
+                        <img class="w-10 h-10 object-contain block" src="{{asset('images/icons/icon3.svg')}}"
+                            alt="icon" />
+                        <div class="space-y-2">
+                            <h3 class="dark:text-white text-[22px] font-semibold"> Soporte Técnico </h3>
+                            <p class="leading-8 text-gray-lite dark:text-[#A6A6A6]"> Soporte técnico remoto y presencial para empresas y particulares. </p>
+                        </div>
+                    </div>
+                    <div class="about-box bg-[#fff8e7] dark:bg-transparent">
+                        <img class="w-10 h-10 object-contain block" src="{{asset('images/icons/icon2.svg')}}"
+                            alt="icon" />
+                        <div class="space-y-2">
+                            <h3 class="dark:text-white text-[22px] font-semibold"> Database Administration </h3>
+                            <p class="leading-8 text-gray-lite dark:text-[#A6A6A6]"> Todo para servicios de administración de bases de datos, optimización y seguridad. </p>
+                        </div>
+
                 </div>
             </div>
 
