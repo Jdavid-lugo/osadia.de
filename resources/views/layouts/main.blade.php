@@ -64,31 +64,31 @@
             <ul
                 class="block rounded-b-[20px] shadow-md absolute left-0 top-20 z-[22222222222222] w-full bg-white dark:bg-[#1d1d1d]">
                 <li>
-                    <a class="mobile-menu-items-active" href="./aboutOne.html">
+                    <a class="mobile-menu-items-active" href="/">
                         <span class="mr-2 text-xl">
                             <i class="fa-regular fa-user"></i>
                         </span>Sobre mi </a>
                 </li>
                 <li>
-                    <a class="mobile-menu-items" href="./resumeOne.html">
+                    <a class="mobile-menu-items" href="/">
                         <span class="mr-2 text-xl">
                             <i class="fa-regular fa-file-lines"></i>
                         </span>Resumen </a>
                 </li>
                 <li>
-                    <a class="mobile-menu-items" href="./portfiloOne.html">
+                    <a class="mobile-menu-items" href="/">
                         <span class="mr-2 text-xl">
                             <i class="fas fa-briefcase"></i>
                         </span>Trabajos </a>
                 </li>
                 <li>
-                    <a class="mobile-menu-items" href="./blogOne.html">
+                    <a class="mobile-menu-items" href="/">
                         <span class="mr-2 text-xl">
                             <i class="fa-brands fa-blogger"></i>
                         </span>Blogs </a>
                 </li>
                 <li>
-                    <a class="mobile-menu-items" href="./contactOne.html">
+                    <a class="mobile-menu-items" href="/">
                         <span class="mr-2 text-xl">
                             <i class="fa-solid fa-address-book"></i>
                         </span> Contacto </a>
@@ -205,10 +205,10 @@
                                     <span class="text-xl mb-1">
                                         <i class="fas fa-briefcase"></i>
                                     </span> Trabajos </a></li>
-                            <li><a @if(Route::is('blog')) class="menu-active" @else class="menu-item" @endif href="{{ route('blog') }}">
+                            {{-- <li><a @if(Route::is('blog')) class="menu-active" @else class="menu-item" @endif href="{{ route('blog') }}">
                                     <span class="text-xl mb-1">
                                         <i class="fa-brands fa-blogger"></i>
-                                    </span> Blogs </a></li>
+                                    </span> Blogs </a></li> --}}
                             <li> <a @if(Route::is('contact')) class="menu-active" @else class="menu-item" @endif href="{{ route('contact') }}">
                                     <span class="text-xl mb-1">
                                         <i class="fa-solid fa-address-book"></i>
