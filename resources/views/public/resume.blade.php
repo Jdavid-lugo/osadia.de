@@ -24,7 +24,7 @@
 
                             <h4 class="mt-4 font-semibold dark:text-white">Proyectos destacados</h4>
                             <ul class="list-disc ml-5 mt-2 text-gray-lite dark:text-[#A6A6A6] leading-7">
-                                <li><strong>FaceId SDK / Validación Fácil</strong> — Desarrollo de una solución de validación de identidad con captura OCR, verificación automática y panel administrativo, integrada con APIs para verificación en tiempo real.</li>
+                                <li><strong>Facial-Id SDK / Validación Fácil</strong> — Desarrollo de una solución de validación de identidad con captura OCR, verificación automática y panel administrativo, integrada con APIs para verificación en tiempo real.</li>
                                 <li><strong>Portal de Gestión de Inventarios</strong> — Plataforma para control de stock y pedidos en retailers, con reportes en tiempo real y procesamiento de altas cargas.</li>
                                 <li><strong>Plataforma eCommerce y Reservas</strong> — Implementación de tiendas online y sistemas de reservas con pasarelas de pago y gestión de catálogos.</li>
                                 <li><strong>Consultoría DBA</strong> — Proyectos de optimización, migración y securización de bases de datos para clientes corporativos.</li>

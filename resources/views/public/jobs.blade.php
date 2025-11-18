@@ -8,10 +8,10 @@
                     <!-- 1) Validación Fácil (prioritario) -->
                     <div class="about-box bg-[#fcf4ff] dark:bg-transparent">
                         <div class="space-y-2">
-                            <h3 class="dark:text-white text-[22px] font-semibold ">App "FaceId SDK"</h3>
+                            <h3 class="dark:text-white text-[22px] font-semibold ">App "FacialId SDK"</h3>
                             <p class="leading-8 text-gray-lite dark:text-[#A6A6A6]">Aplicación para identidades de manera rápida y sencilla, pensada para instituciones y comercios que requieren verificación inmediata.</p>
                             <div class="mt-3">
-                                <a href="{{ url('https://faceid.osadia.de/') }}" class="inline-block text-sm text-[#1773EA] hover:underline">Ver más</a>
+                                <a href="{{ url('https://facialid.osadia.de/') }}" class="inline-block text-sm text-[#1773EA] hover:underline">Ver más</a>
                             </div>
                         </div>
                     </div>
