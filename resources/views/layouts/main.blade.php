@@ -175,7 +175,7 @@
                         <!-- download / open CV buttons -->
                         <div class="flex justify-center space-x-3 mt-4">
                             <!-- Force download -->
-                            <a class="dowanload-btn" href="{{ /*asset('cv/cv_jdavid-lugo.pdf') */ }}" download>
+                            <a class="dowanload-btn" href="#"  download>
                                 <img class="mr-3" src="{{ asset('images/icons/dowanload.png') }}" alt="icon" /> Descargar CV
                             </a>
                         </div>
