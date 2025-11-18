@@ -58,7 +58,7 @@
                                     </span>
                                     <div class="text-left ml-2.5">
                                         <p class="text-xs text-[#44566C] dark:text-[#A6A6A6]"> Teléfono </p>
-                                        <p class="dark:text-white">+58 424-265-7027</p>
+                                        <p class="dark:text-white">+58 412-5422382</p>
                                     </div>
                                 </div>
 
@@ -68,7 +68,7 @@
                                     </span>
                                     <div class="text-left ml-2.5">
                                         <p class="text-xs text-[#44566C] dark:text-[#A6A6A6]"> Email </p>
-                                        <p class="dark:text-white">jodaluca@gmail.com</p>
+                                        <p class="dark:text-white">desarrolloslc2010@gmail.com</p>
                                     </div>
                                 </div>
 
@@ -96,7 +96,7 @@
 
                             <!-- dowanload button -->
                             <button class="dowanload-btn">
-                                <img class="mr-3" src="{{asset('images/icons/download.png')}}" alt="icon" /> Descargar CV
+                                <img class="mr-3" src="{{asset('images/icons/dowanload.png')}}" alt="icon" /> Descargar CV
                             </button>
                         </div>
                     </div>

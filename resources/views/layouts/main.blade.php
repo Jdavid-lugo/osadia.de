@@ -120,7 +120,7 @@
                                 </span>
                             </a>
                             <!-- dribbble icon and link -->
-                            <a href="https://github.com/jdavid-lugo" target="_blank" rel="noopener noreferrer">
+                            <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
                                 <span class="socialbtn text-[#e14a84]">
                                     <i class="fa-brands fa-github"></i>
                                 </span>
@@ -140,7 +140,7 @@
                                 </span>
                                 <div class="text-left ml-2.5">
                                     <p class="text-xs text-[#44566C] dark:text-[#A6A6A6]"> Teléfono </p>
-                                    <p class="dark:text-white">+58 424 2657027</p>
+                                    <p class="dark:text-white">+58 412-5422382</p>
                                 </div>
                             </div>
                             <div class="flex border-b border-[#E3E3E3] dark:border-[#3D3A3A] py-2.5">
@@ -149,17 +149,17 @@
                                 </span>
                                 <div class="text-left ml-2.5">
                                     <p class="text-xs text-[#44566C] dark:text-[#A6A6A6]"> Email </p>
-                                    <p class="dark:text-white">jodaluca@gmail.com</p>
+                                    <p class="dark:text-white">desarrollolc2010@gmail.com</p>
                                 </div>
                             </div>
                             <div class="flex border-b border-[#E3E3E3] dark:border-[#3D3A3A] py-2.5">
                                 <span class="socialbtn bg-white dark:bg-black text-[#FD7590] shadow-md">
                                     <i class="fa-solid fa-location-dot"></i>
                                 </span>
-                                <div class="text-left ml-2.5">
+                                {{-- <div class="text-left ml-2.5">
                                     <p class="text-xs text-[#44566C] dark:text-[#A6A6A6]"> Dirección </p>
                                     <p class="dark:text-white">Charallave, Venezuela</p>
-                                </div>
+                                </div> --}}
                             </div>
                             <div class="flex py-2.5">
                                 <span class="socialbtn bg-white dark:bg-black text-[#C17CEB] shadow-md">
@@ -175,7 +175,7 @@
                         <!-- download / open CV buttons -->
                         <div class="flex justify-center space-x-3 mt-4">
                             <!-- Force download -->
-                            <a class="dowanload-btn" href="{{ asset('cv/cv_jdavid-lugo.pdf') }}" download>
+                            <a class="dowanload-btn" href="{{ /*asset('cv/cv_jdavid-lugo.pdf') */ }}" download>
                                 <img class="mr-3" src="{{ asset('images/icons/dowanload.png') }}" alt="icon" /> Descargar CV
                             </a>
                         </div>
