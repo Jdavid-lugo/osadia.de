@@ -70,25 +70,20 @@
                         </span>Sobre mi </a>
                 </li>
                 <li>
-                    <a class="mobile-menu-items" href="/">
+                    <a class="mobile-menu-items" href="/resume">
                         <span class="mr-2 text-xl">
                             <i class="fa-regular fa-file-lines"></i>
                         </span>Resumen </a>
                 </li>
                 <li>
-                    <a class="mobile-menu-items" href="/">
+                    <a class="mobile-menu-items" href="/jobs">
                         <span class="mr-2 text-xl">
                             <i class="fas fa-briefcase"></i>
                         </span>Trabajos </a>
                 </li>
+                            
                 <li>
-                    <a class="mobile-menu-items" href="/">
-                        <span class="mr-2 text-xl">
-                            <i class="fa-brands fa-blogger"></i>
-                        </span>Blogs </a>
-                </li>
-                <li>
-                    <a class="mobile-menu-items" href="/">
+                    <a class="mobile-menu-items" href="/contact">
                         <span class="mr-2 text-xl">
                             <i class="fa-solid fa-address-book"></i>
                         </span> Contacto </a>
