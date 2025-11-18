@@ -152,15 +152,6 @@
                                     <p class="dark:text-white">desarrollolc2010@gmail.com</p>
                                 </div>
                             </div>
-                            <div class="flex border-b border-[#E3E3E3] dark:border-[#3D3A3A] py-2.5">
-                                <span class="socialbtn bg-white dark:bg-black text-[#FD7590] shadow-md">
-                                    <i class="fa-solid fa-location-dot"></i>
-                                </span>
-                                {{-- <div class="text-left ml-2.5">
-                                    <p class="text-xs text-[#44566C] dark:text-[#A6A6A6]"> Dirección </p>
-                                    <p class="dark:text-white">Charallave, Venezuela</p>
-                                </div> --}}
-                            </div>
                             <div class="flex py-2.5">
                                 <span class="socialbtn bg-white dark:bg-black text-[#C17CEB] shadow-md">
                                     <i class="fa-solid fa-calendar-days"></i>
